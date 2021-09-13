@@ -1,0 +1,21 @@
+.mine_label {
+    -fx-background-color: #C4C4C4;
+    -fx-text-fill: #000000;
+    -fx-font-size: 14pt;
+    -fx-text-alignment: center;
+}
+
+.cool_button {
+    -fx-background-color: #313035;
+    -fx-text-fill: white;
+
+}
+
+.background {
+    -fx-background-color: white;
+}
+
+.cool_label {
+    -fx-text-fill: #4200FF;
+
+}
